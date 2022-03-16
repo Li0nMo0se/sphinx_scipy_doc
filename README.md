@@ -13,3 +13,7 @@
 ## MISC
 
 * In order to change the logo, you may replace `/docs/source/_theme/scipy/static/img/scipy_org_logo.png` by your own logo. Keep the same filename!
+
+## Output generated documentation
+
+![](generated_doc.png)
