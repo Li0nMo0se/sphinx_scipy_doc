@@ -1,5 +1,7 @@
 # Sphinx scipy documentation sphinx
 
+[![Documentation Status](https://readthedocs.org/projects/sphinx-scipy-doc/badge/?version=latest)](https://sphinx-scipy-doc.readthedocs.io/en/latest/?badge=latest)
+
 ## Step by step
 
 
